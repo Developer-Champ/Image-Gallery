@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(270deg, #f50018 0%, #73f2dd 100%)
+    background: linear-gradient(135deg, #11ddbe 0%, #bed122 100%)
 }
 
 .gallery {
@@ -54,6 +54,12 @@ body {
     font-size: 40px;
     font-weight: bold;
     cursor: pointer;
+}
+
+input[type="file"] {
+    margin: 20px;
+    padding: 10px;
+    font-size: 16px;
 }
 
 /* Responsive styles */
